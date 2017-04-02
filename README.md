@@ -1,9 +1,9 @@
 # nodemcu-library-altium
 NodeMCU V2 &amp; V3 (LoLin) Library for Altium
 
-*NodeMCU V2 footprint based on PcbDoc from [nodemcu GitHub](https://github.com/nodemcu/nodemcu-devkit-v1.0)
-*LoLin (NodeMCU V3) footprint based on NodeMCU V2 with some adjusment (+100 mil in left and right)
-*Plus NodeMCU V2 + V3 footprint so you can change V2 and V3 in one footprint (The size adjusted but route the net by yourself) (RSV pin in V2 and GND/VUSB pin in V3 not connected)
+* NodeMCU V2 footprint based on PcbDoc from [nodemcu GitHub](https://github.com/nodemcu/nodemcu-devkit-v1.0)
+* LoLin (NodeMCU V3) footprint based on NodeMCU V2 with some adjusment (+100 mil in left and right)
+* Plus NodeMCU V2 + V3 footprint so you can change V2 and V3 in one footprint (The size adjusted but route the net by yourself) (RSV pin in V2 and GND/VUSB pin in V3 not connected)
 
 NodeMCU v2
 Image
@@ -20,5 +20,5 @@ Comparison
 ![NodeMCU V2 vs V3 (back)](https://lh3.googleusercontent.com/Erf50kyVg13ncq5P88mBK3L_ZH6vmiweIFoxV4x5M-JEmvpqZY4trGHQlVLWHYlgFfjbtDjuN29Os8LFGbRhuKbEGcET33i58ZvisPiCg6MVdjH-6X_Gy6PK7QaZE6esx2JNRXSyxv0IAwGxcpD72eQUR8O6V6wOgelpZkwv1lgz-oGhPQRQOgKBqhexI9HpCB3QQL0eaebnlpXhloCYWscsa9nixq5lN2rQCqfkzKrQBKL8A5SAbt1wwPIzlHm_m9_3qqtzHvo7t_KKA01RdPwFV5Cd8Uqw_lhUzVeY9GwLJB3e942V0AftyYTdcgB1U4wP4AbA_62_z5EaA4bDer7t2R2HXr8tv6ePIhgaYawysTF3MVLlUrw0bcldwUfkq_-GsImNsnBG9lu62TlrH_s8zAMEo8q-6T6f1pfbr1FG4zmCFFP_uwoLsgzw2Z4WORdqg_FkuQrnrP1276gXcd8qNt9t2ynKz-lt7d9h_e0hskZ6dhflFNmRHn7MxUGNLm63tclLWwkLt8LM938kX_QpDtMGYsE72iVe95GRNeQ-2mjVbuNGUH7HqU4LvnQknl5oPxYQyjgZIzd2vZ2Jg87X1RdvcjANKw9p_Lm8ILlcfMhRJ1S6=w648-h509-no "NodeMCU V2 vs V3 (back)")
 
 Image source :
-*https://frightanic.com/iot/comparison-of-esp8266-nodemcu-development-boards/
-*https://cknodemcu.wordpress.com/2015/11/13/nodemcu-variants/
+* https://frightanic.com/iot/comparison-of-esp8266-nodemcu-development-boards/
+* https://cknodemcu.wordpress.com/2015/11/13/nodemcu-variants/
