@@ -1,4 +1,5 @@
-# nodemcu-library-altium
+NodeMCU Library for Altium
+==============================
 NodeMCU V2 &amp; V3 (LoLin) Library for Altium
 
 * NodeMCU V2 footprint based on PcbDoc from [nodemcu GitHub](https://github.com/nodemcu/nodemcu-devkit-v1.0)
@@ -33,3 +34,21 @@ Comparison
 Image source :
 * https://frightanic.com/iot/comparison-of-esp8266-nodemcu-development-boards/
 * https://cknodemcu.wordpress.com/2015/11/13/nodemcu-variants/
+
+License
+---------
+WTFPL (Do What The Fuck You Want Public License). Just use it.
+
+
+	           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+	                   Version 2, December 2004
+		
+	Everyone is permitted to copy and distribute verbatim or modified
+	copies of this license document, and changing it is allowed as long
+	as the name is changed.
+	
+	           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+	  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+	
+	 0. You just DO WHAT THE FUCK YOU WANT TO.
+
